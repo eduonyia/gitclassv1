@@ -5,4 +5,4 @@ Change to the venv - cd penv
 Activate the venv  - source bin/activate
 check python version - python -V
 check installed packages - pip freeze
-Deactivate venv - deactivate
+Deactivate venv - deactivate.
