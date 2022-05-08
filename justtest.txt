@@ -1,0 +1,8 @@
+Create a directory for learning - DjangoDev
+Create a directory for virtual environment - mkdir penv
+Install the virtual environment  -   python3.6 -m venv .
+Change to the venv - cd penv
+Activate the venv  - source bin/activate
+check python version - python -V
+check installed packages - pip freeze
+Deactivate venv - deactivate
